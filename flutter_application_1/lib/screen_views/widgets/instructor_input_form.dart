@@ -1,6 +1,6 @@
   import 'package:flutter/material.dart';
   import 'package:flutter_application_1/screen_views/instructor_input.dart';
-
+  import 'package:flutter_application_1/screen_views/cotizacion_inputs.dart';
 
   class ClienteForm extends StatefulWidget {
 
