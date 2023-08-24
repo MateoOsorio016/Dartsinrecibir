@@ -18,7 +18,7 @@ List<String> descripciones= [
     'Desarrolla Aplicaciones Moviles.',
     'Lavar baños.',
     'Administrar base de datos.',
-    'Profesor',
+    'Profesor Triste',
     ];
     List <String> valor= ["3.000.000" "", "5.000.000", "6.000.000", "1.200.000", "4.500.000",];
   @override
